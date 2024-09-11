@@ -1,4 +1,4 @@
-## Known Software and Devices that cause issues in HD2
+## Known Software & Devices that cause issues in Helldivers 2
 ## KEY:  ❌  =  Uninstall  |  ⬆️ = Update to latest version  | 📝 = Edit software's settings  |
 | Name  |  Symptoms  |  Fix By  |  Access Via |
 | ------------- | ------------- | ------------- | ------------- |

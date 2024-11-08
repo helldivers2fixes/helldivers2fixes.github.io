@@ -14,6 +14,7 @@
 |  Nahimic  |  Crashing & connection issues  |  ❌ will need to remove services, devices and any programs  |  Add or remove Programs, Device Manager, Services.msc  |
 |  Norton 360  |  FPS performance issues  |  📝 Disable Game Optimizer  |  Norton 360 User Interface  |
 |  Outplayed by Overwolf  |  Crashing & performance issues  |  📝 or ❌ Disable Outplayed, or uninstall Overwolf  |  Overwolf Interface or Add or remove Programs  |
+|  Process Lasso  |  Crashing & performance issues  |  ❌  |  Uninstall using Add or remove Programs  |
 |  [Radmin]([url](https://www.radmin-vpn.com/))  |  Connection Issues  |  ❌ or disable **IN DEVICE MANAGER**  |  Add or remove Programs or Device Manager  |
 |  Razer Cortex  |  Performance issues  |  ❌ or exit Razer Cortex while playing  |  Add or remove Programs or Razer Cortex User Interface  |
 |  Ryzen Master  |  Crashing, Connection Issues, performance issues  |  ⬆️  |  [AMD Ryzen Master Website]([url](https://www.amd.com/en/products/software/ryzen-master.html))  |

@@ -13,6 +13,7 @@
 |  Mullvad VPN  |  Connection Issues  |  ❌ or disable **IN DEVICE MANAGER**  |  Add or remove Programs or Device Manager
 |  Nahimic  |  Crashing & connection issues  |  ❌ will need to remove services, devices and any programs  |  Add or remove Programs, Device Manager, Services.msc  |
 |  Norton 360  |  FPS performance issues  |  📝 Disable Game Optimizer  |  Norton 360 User Interface  |
+|  OneNote (2010) Printer Driver  |  Crashing  |  ❌   |  Printers & scanners in Windows  |  Arrowhead is aware and is investigating 
 |  Outplayed by Overwolf  |  Crashing & performance issues  |  📝 or ❌ Disable Outplayed, or uninstall Overwolf  |  Overwolf Interface or Add or remove Programs  |
 |  Process Lasso  |  Crashing & performance issues  |  ❌  |  Uninstall using Add or remove Programs  |
 |  [Radmin]([url](https://www.radmin-vpn.com/))  |  Connection Issues  |  ❌ or disable **IN DEVICE MANAGER**  |  Add or remove Programs or Device Manager  |

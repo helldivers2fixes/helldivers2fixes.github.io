@@ -6,8 +6,10 @@
 |  Avast Internet Security  | Connection Issues  |  📝 Under **General** >> **Exceptions** >> **Add Exception** ``https://www.microsoft.com/*``  |  Avast User Interface  |
 |  A-Volute Nh3 audio devices/software components  |  Crashing and connection issues |  ❌  |  Device Manager  |
 |  Cepstral SwiftTalker  |  Crashes  |  ❌  |  Add or remove Programs  |
+|  cFosSpeed  |  Connection Issues  |  ❌  |  Add or remove Programs  |
 |  ESET  |  Crashes  |  ❌ or 📝 extensive whitelisting  |  Add or remove Programs  |
 |  (LogMeIn) Hamachi  |  Connection Issues  |❌ or disable **IN DEVICE MANAGER**  |  Add or remove Programs or Device Manager  |
+|  Gigabyte Speed  |  Connection Issues  |  ❌  |  Add or remove Programs  |
 |  iCue  |  Causes crashing  |  ⬆️  |  Corsair's website // [iCue Removal Tool]([url](https://help.corsair.com/hc/en-us/articles/6771456768013-iCUE-How-to-fix-issues-with-installing-or-uninstalling-iCUE))  |
 |  MSI Afterburner  |  Crashes  |  ⬆️  |  [MSI's Website]([url](https://www.msi.com/Landing/afterburner/graphics-cards))  |
 |  Mullvad VPN  |  Connection Issues  |  ❌ or disable **IN DEVICE MANAGER**  |  Add or remove Programs or Device Manager

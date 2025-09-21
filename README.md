@@ -13,6 +13,7 @@
 | GameFirst VI | Connection Issues | ❌ | Add or Remove Programs |
 | Gigabyte Speed | Connection Issues | ❌ | Add or Remove Programs |
 | iCue | Causes crashing | ⬆️ Use [Corsair's iCue Removal Tool](https://help.corsair.com/hc/en-us/articles/6771456768013-iCUE-How-to-fix-issues-with-installing-or-uninstalling-iCUE) | Corsair Website |
+| Microsoft GameInput | Crashes & FPS issues when a controller is used | ❌ | Add or Remove Programs |
 | MSI Afterburner | Crashes | ⬆️ [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) | MSI Website |
 | Mullvad VPN | Connection Issues | ❌ or disable in **Device Manager** | Add or Remove Programs / Device Manager |
 | Nahimic | Crashing & connection issues | ❌ Remove services, devices, and programs | Add or Remove Programs / Device Manager / Services.msc |
